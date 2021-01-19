@@ -5,10 +5,10 @@ module.exports= app => {
     fs.readFile("./data/db.json","utf8", (err, data) => {
 
         if (err) throw err; 
-        const Notes= JSON.parse(data);
+        const notes= JSON.parse(data);
         
         app.get("/api/notes", function(req, res) {
-            res.JSON(notes);
+            res.json(notes);
         });
 
         app.post("/api/notes", function(req, res){
