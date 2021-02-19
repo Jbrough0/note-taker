@@ -5,3 +5,6 @@ I have created a note taker using express while also using the combined coding l
 
 Link to my video:  
 https://drive.google.com/file/d/1jT9HBrdM450uXvRurBBd9Ft-flaNxhQC/view
+
+
+Josh Broughton spikebroughton@aol.com https://github.com/Jbrough0
